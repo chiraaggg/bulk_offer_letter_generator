@@ -5,3 +5,4 @@ pandas
 zipfile36
 datetime
 pytest-shutil
+exceptions
