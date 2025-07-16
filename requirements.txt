@@ -4,4 +4,4 @@ streamlit
 pandas
 zipfile36
 datetime
-shutil
+pytest-shutil
