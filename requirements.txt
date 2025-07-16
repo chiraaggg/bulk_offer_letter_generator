@@ -1,4 +1,5 @@
 docx2pdf
+python-docx
 docx
 streamlit
 pandas
@@ -6,4 +7,3 @@ zipfile36
 datetime
 pytest-shutil
 exceptions
-python-docx
