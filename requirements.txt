@@ -2,7 +2,6 @@ docx2pdf
 docx
 streamlit
 pandas
-os
 zipfile
 datetime
 shutil
