@@ -6,3 +6,4 @@ zipfile36
 datetime
 pytest-shutil
 exceptions
+python-docx
